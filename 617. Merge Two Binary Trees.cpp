@@ -6,6 +6,7 @@
  *     struct TreeNode *right;
  * };
  */
+/*递归*/
  struct TreeNode* mergeTrees(struct TreeNode* t1, struct TreeNode* t2) {  
     if(t1==NULL && t2==NULL)
     {
@@ -29,3 +30,4 @@
         return t1;
     }
 }
+
