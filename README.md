@@ -1,4 +1,4 @@
-# LeetCode刷题 尽量优化算法(觉得不错Star一个，谢谢！！！)
+# LeetCode刷题 最优解算法
 语言
 * C语言
 * java
