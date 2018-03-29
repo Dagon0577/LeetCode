@@ -232,3 +232,143 @@ public class Main {
 
 
 }
+
+
+package com.company;
+import java.util.*;
+public class Main {
+    public static void main(String[] args)
+    {
+        Scanner in=new Scanner(System.in);
+        int[] nums=new int[10];
+        String s=in.next();
+        for(int i=0;i<s.length();i++)
+            nums[s.charAt(i)-'0']++;
+        int index=0;
+        int min=Integer.MAX_VALUE;
+        for(int i=1;i<10;i++)
+        {
+            if(nums[i]<min)
+            {
+                min=nums[i];
+                index=i;
+            }
+        }
+        String result=new String();
+        if(min==0 && index!=0)
+            System.out.println(index);
+
+        else
+        {
+
+            if(nums[0]<min)
+            {
+                result+="1";
+                for(int i=0;i<=nums[0];i++)
+                    result+="0";
+            }
+            else
+            {
+                for(int i=0;i<=min;i++)
+                    result+=(char)(index+'0');
+            }
+            System.out.println(result);
+        }
+    }
+}
+
+
+
+
+
+
+//携程
+
+package com.company;
+import sun.rmi.server.InactiveGroupException;
+
+import java.util.*;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        String str1 = scanner.nextLine();
+        char[] ch=str1.toCharArray();
+        int n=ch.length;
+        int[][] a=new int[n][n];
+        System.out.print(n);
+        for(int i=1;i<n;i++)
+            for(int j=0;j<n;j++){
+                a[i][j]=scanner.nextInt();
+            }
+
+        change(a,n);
+    }
+    public static void change(int[][] a,int n){
+        int[][] result=new int[n][n];
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                result[i][j]=a[n-j-1][i];
+            }
+        }
+        for(int i=0;i<n;i++) {
+            for (int j = 0; j < n; j++) {
+                System.out.print(result[i][j] + " ");
+            }
+            System.out.println(" ");
+        }
+    }
+
+
+}
+
+
+
+
+
+
+
+import java.util.Scanner;
+
+public class Main {
+
+    public static int[][] change(int[][] b) {
+        int[][] temp = new int[b[0].length][b.length];
+        for (int i = 0; i < b.length; i++) {
+            for (int j = 0; j < b[i].length; j++) {
+                temp[i][j]=b[b[i].length-j-1][i];
+            }
+        }
+        return temp;
+    }
+
+    public static void main(String[]args){
+        Scanner sc = new Scanner(System.in);
+        String ipt = sc.nextLine();
+        String[] ipta = ipt.split(" ");
+        int [][] a = new int[ipta.length][ipta.length];
+
+        for (int i = 0; i < ipta.length; i++) {
+            a[0][i] = Integer.valueOf(ipta[i]);
+        }
+        for (int i = 1; i < a.length; i++) {
+            ipt = sc.nextLine();
+            ipta = ipt.split(" ");
+            for (int j = 0; j < a.length; j++) {
+                a[i][j] = Integer.valueOf(ipta[j]);
+            }
+        }
+        int [][]t=change(a);
+        for(int i=0;i<t.length;i++){
+            for(int j=0;j<t[0].length;j++){
+                System.out.print(t[i][j]+" ");
+            }
+            System.out.println();
+        }
+        sc.close();
+    }
+
+}
+
+
