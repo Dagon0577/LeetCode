@@ -372,3 +372,178 @@ public class Main {
 }
 
 
+
+TX笔试规范
+
+
+import java.util.Scanner;
+public class Main {
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        while (in.hasNextInt()) {//注意while处理多个case
+            int a = in.nextInt();
+            int b = in.nextInt();
+            System.out.println(a + b);
+        }
+    }
+    
+}
+
+
+
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        int ans = 0, x;
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < n; j++){
+                x = sc.nextInt();
+                ans += x;
+            }
+        } 
+        System.out.println(ans);
+    }
+}
+
+
+
+
+import java.util.Scanner;
+
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        //while (in.hasNextInt()) {//注意while处理多个case
+            //int a = in.nextInt();
+            long a=in.nextLong();
+            long b=in.nextLong();
+            //int b = in.nextInt();
+        //}
+        long sum=sum(a,b);
+        System.out.print(sum);
+    }
+    private static long sum(long n,long m){
+
+
+        return n*m/2;
+    }
+
+
+    import java.util.ArrayList;
+import java.util.Scanner;
+public class Main {
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+            int k=in.nextInt();
+            int a = in.nextInt();
+            int x = in.nextInt();
+            int b = in.nextInt();
+            int y = in.nextInt();
+            long c=result(a,x,b,y,k);
+            System.out.println(c-c/1000000007*1000000007);
+            System.out.println(c);
+    }
+    private static long result(int a,int x,int b,int y,int k){
+
+        int min=a>b?b:a;
+        int minX=a>b?y:x;
+        int maxY=x+y-minX;
+        int max=a+b-min;
+        int i=0;
+        long answer=0;
+        int sum=0;
+        ArrayList<Integer> key2=new ArrayList<>();
+        int typeA=0,typeB=0;
+        for(i=0;i<x;i++){
+            for(int j=x;j<x+y;j++){
+                if(sum<k){
+                    sum+=max;
+                    typeB++;
+                }
+                else if(sum==k){
+                    key2.add(typeA);
+                    key2.add(typeB);
+                    typeA=i;
+                    typeB=0;
+                    sum=i*min;
+                }
+                else{
+                    typeA=i;
+                    typeB=0;
+                    sum=i*min;
+                }
+            }
+            sum+=min;
+            typeA++;
+        }
+        for(i=0;i<key2.size()/2;i++){
+            answer+=(pailie(minX,key2.get(i*2))*pailie(maxY,key2.get(i*2+1)));
+        }
+        return answer;
+
+
+    }
+    private static long pailie(int n,int m){
+        long a=1,b=1;
+        for(int i=n-m+1;i<=n;i++)
+           a*=i;
+//        for(int i=1;i<=m;i++)
+//            b*=m;
+        return a;
+    }
+
+}
+
+
+
+
+
+
+import java.util.Scanner;
+
+
+public class Main {
+    public static void main(String[] args) {
+
+        Scanner in = new Scanner(System.in);
+        char[] dictionary=new char[99999];
+        int result=0;
+        int k=0;
+        while (in.hasNextLine()) {//注意while处理多个case
+            String str1 = in.nextLine();
+            if(str1.isEmpty())
+                break;
+            char[] str2=str1.toCharArray();
+            for(int i=1;i<str2.length;i++){
+                if(str2[i]=='/'&&str2[i-1]=='/'){
+                    result++;
+                    break;
+                }
+                if(str2[i]=='/'||str2[i]=='*'||str2[i]=='"')
+                {
+                    dictionary[k]=str2[i];
+                    k++;
+                }
+
+            }
+                 }
+                 int sum=0;
+                 for(int i=0,j=0;i<k;i++){
+                    if(dictionary[i]=='*'&&j==0)
+                        sum++;
+                    if(dictionary[i]=='"')
+                        if(j==0)
+                            j=1;
+                        else
+                            j=0;
+                 }
+                 result+=sum/2;
+        System.out.print(result);
+    }
+}
+
+
