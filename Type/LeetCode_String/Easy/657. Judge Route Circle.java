@@ -1,7 +1,7 @@
 class Solution {
-    public boolean judgeCircle(String moves) {
-        int h=0,w=0;
-        for (char c : moves.toCharArray())
+	public boolean judgeCircle(String moves) {
+		int h = 0, w = 0;
+		for (char c : moves.toCharArray())
 			switch (c) {
 			case 'U':
 				h++;
@@ -17,6 +17,6 @@ class Solution {
 				break;
 
 			}
-        return h==0&&w==0;
-    }
+		return h == 0 && w == 0;
+	}
 }

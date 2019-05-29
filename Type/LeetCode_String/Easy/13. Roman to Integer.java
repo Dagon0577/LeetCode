@@ -1,39 +1,39 @@
 class Solution {
     public int romanToInt(String s) {
-    int len=s.length();
-    int nums[]=new int[len];
-    for(int i=0;i<len;i++){
-        switch (s.charAt(i)){
+        int len = s.length();
+        int nums[] = new int[len];
+        for (int i = 0; i < len; i++) {
+            switch (s.charAt(i)) {
             case 'M':
-                nums[i]=1000;
+                nums[i] = 1000;
                 break;
             case 'D':
-                nums[i]=500;
+                nums[i] = 500;
                 break;
             case 'C':
-                nums[i]=100;
+                nums[i] = 100;
                 break;
             case 'L':
-                nums[i]=50;
+                nums[i] = 50;
                 break;
-            case 'X' :
-                nums[i]=10;
+            case 'X':
+                nums[i] = 10;
                 break;
             case 'V':
-                nums[i]=5;
+                nums[i] = 5;
                 break;
             case 'I':
-                nums[i]=1;
+                nums[i] = 1;
                 break;
+            }
         }
-    }
-    int sum=0;
-    for(int i=0;i<len-1;i++){
-        if(nums[i]<nums[i+1])
-            sum-=nums[i];
-        else
-            sum+=nums[i];
-    }
-    return sum+nums[len-1];
+        int sum = 0;
+        for (int i = 0; i < len - 1; i++) {
+            if (nums[i] < nums[i + 1])
+                sum -= nums[i];
+            else
+                sum += nums[i];
+        }
+        return sum + nums[len - 1];
     }
 }
