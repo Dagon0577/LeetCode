@@ -25,7 +25,7 @@ class Solution {
             if (v_Index < nums.length) {
                 nums[index] = nums[v_Index];
                 index++;
-                v_Index++;
+                v_Index++;  
             }
 
         }
