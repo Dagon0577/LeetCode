@@ -1,4 +1,4 @@
-#  LeetCode刷题 个人纪录 
+#  LeetCode-Dagon
 
 ## **Type**
 1. 📌[**Array**](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array)
