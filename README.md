@@ -1,15 +1,57 @@
 #  LeetCode-Dagon
 
 ## **Type**
-1. 📌[**Array**](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array)
-    - 💚[Easy](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array/Easy)🎈
-    - 🧡[Medium](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array/Medium)🎈
- 
-2. 📌[**String**](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String)
-    - 💚[Easy](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy)🎈
+1. 📌[**Array**](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array)  
+    💚[Easy](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array/Easy)🎈  
 
-2. 📌[**Tree**](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Tree)
-    - 💚[Easy](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Tree/Easy)🎈 
+    todo
+
+    🧡[Medium](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array/Medium)🎈
+    - [11. Container With Most Water](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/11.%20Container%20With%20Most%20Water.java)
+    - [16. 3Sum Closest](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array/Medium/16.%203Sum%20Closest.java)
+    - [39. Combination Sum](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/39.%20Combination%20Sum.java)
+    - [48. Rotate Image](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/48.%20Rotate%20Image.java)
+    - [59. Spiral Matrix II](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/59.%20Spiral%20Matrix%20II.java)
+    - [62. Unique Paths](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/62.%20Unique%20Paths.java)
+    - [64. Minimum Path Sum](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/64.%20Minimum%20Path%20Sum.java)
+    - [78. Subsets](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/78.%20Subsets.java)
+    - [216. Combination Sum III](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/216.%20Combination%20Sum%20III.java)
+    - [238. Product of Array Except Self](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/238.%20Product%20of%20Array%20Except%20Self.java)
+    - [287. Find the Duplicate Number](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/287.%20Find%20the%20Duplicate%20Number.java)
+    - [289. Game of Life](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/289.%20Game%20of%20Life.java)
+    - [442. Find All Duplicates in an Array](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/442.%20Find%20All%20Duplicates%20in%20an%20Array.java)
+    - [495. Teemo Attacking](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/495.%20Teemo%20Attacking.java)
+    - [565. Array Nesting](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/565.%20Array%20Nesting.java)
+    - [611. Valid Triangle Number](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/611.%20Valid%20Triangle%20Number.java)
+    - [621. Task Scheduler](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/621.%20Task%20Scheduler.java)
+    - [667. Beautiful Arrangement II](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/667.%20Beautiful%20Arrangement%20II.java)
+    - [714. Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.java)
+    - [718. Maximum Length of Repeated Subarray](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/718.%20Maximum%20Length%20of%20Repeated%20Subarray.java)
+    - [729. My Calendar I](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/729.%20My%20Calendar%20I.java)
+    - [769. Max Chunks To Make Sorted](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/769.%20Max%20Chunks%20To%20Make%20Sorted.java)
+    - [792. Number of Matching Subsequences](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/792.%20Number%20of%20Matching%20Subsequences.java)
+    - [873. Length of Longest Fibonacci Subsequence](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/873.%20Length%20of%20Longest%20Fibonacci%20Subsequence.java)
+    - [926. Flip String to Monotone Increasing](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/926.%20Flip%20String%20to%20Monotone%20Increasing.java)
+    - [950. Reveal Cards In Increasing Order](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/950.%20Reveal%20Cards%20In%20Increasing%20Order.java)
+    - [969. Pancake Sorting](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/969.%20Pancake%20Sorting.java)
+    - [974. Subarray Sums Divisible by K](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/974.%20Subarray%20Sums%20Divisible%20by%20K.java)
+    - [978. Longest Turbulent Subarray](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/978.%20Longest%20Turbulent%20Subarray.java)
+    - [1011. Capacity To Ship Packages Within D Days](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.java)
+    - [1014. Best Sightseeing Pair](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/1014.%20Best%20Sightseeing%20Pair.java)
+    - [1031. Maximum Sum of Two Non-Overlapping Subarrays](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/1031.%20Maximum%20Sum%20of%20Two%20Non-Overlapping%20Subarrays.java)
+    - [1035. Uncrossed Lines](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/1035.%20Uncrossed%20Lines.java)
+    - [1052. Grumpy Bookstore Owner](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/1052.%20Grumpy%20Bookstore%20Owner.java)
+    - [1109. Corporate Flight Bookings](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/1109.%20Corporate%20Flight%20Bookings.java)
+ 
+2. 📌[**String**](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String)  
+    💚[Easy](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy)🎈
+
+    todo
+
+2. 📌[**Tree**](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Tree)  
+    💚[Easy](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Tree/Easy)🎈 
+
+    todo
 
 
 
