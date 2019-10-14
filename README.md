@@ -42,8 +42,8 @@
     - [1035. Uncrossed Lines](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/1035.%20Uncrossed%20Lines.java)
     - [1052. Grumpy Bookstore Owner](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/1052.%20Grumpy%20Bookstore%20Owner.java)
     - [1109. Corporate Flight Bookings](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/1109.%20Corporate%20Flight%20Bookings.java)
-    - [795. Number of Subarrays with Bounded Maximum](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/795.%20Number%20of%20Subarrays%20with%20Bounded%20Maximum)
-    - [915. Partition Array into Disjoint Intervals](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/915.%20Partition%20Array%20into%20Disjoint%20Intervals)
+    - [795. Number of Subarrays with Bounded Maximum](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/795.%20Number%20of%20Subarrays%20with%20Bounded%20Maximum.java)
+    - [915. Partition Array into Disjoint Intervals](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/915.%20Partition%20Array%20into%20Disjoint%20Intervals.java)
  
 2. 📌[**String**](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String)  
     💚[Easy](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy)🎈
