@@ -17,6 +17,7 @@
     - [64. Minimum Path Sum](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/64.%20Minimum%20Path%20Sum.java)
     - [78. Subsets](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/78.%20Subsets.java)
     - [90. Subsets II](https://github.com/Dagon0577/LeetCode/blob/master/90.%20Subsets%20II.java)
+    - [153. Find Minimum in Rotated Sorted Array](https://github.com/Dagon0577/LeetCode/blob/master/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.java)
     - [216. Combination Sum III](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/216.%20Combination%20Sum%20III.java)
     - [238. Product of Array Except Self](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/238.%20Product%20of%20Array%20Except%20Self.java)
     - [287. Find the Duplicate Number](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/287.%20Find%20the%20Duplicate%20Number.java)
