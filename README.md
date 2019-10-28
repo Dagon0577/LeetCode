@@ -33,6 +33,7 @@
     - [611. Valid Triangle Number](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/611.%20Valid%20Triangle%20Number.java)
     - [621. Task Scheduler](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/621.%20Task%20Scheduler.java)
     - [667. Beautiful Arrangement II](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/667.%20Beautiful%20Arrangement%20II.java)
+    - [670. Maximum Swap](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/670.%20Maximum%20Swap.java)
     - [714. Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.java)
     - [718. Maximum Length of Repeated Subarray](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/718.%20Maximum%20Length%20of%20Repeated%20Subarray.java)
     - [729. My Calendar I](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/729.%20My%20Calendar%20I.java)
