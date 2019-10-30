@@ -12,6 +12,7 @@
     - [39. Combination Sum](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/39.%20Combination%20Sum.java)
     - [40. Combination Sum II](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/40.%20Combination%20Sum%20II.java)
     - [48. Rotate Image](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/48.%20Rotate%20Image.java)
+    - [56. Merge Intervals.java](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/56.%20Merge%20Intervals.java)
     - [59. Spiral Matrix II](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/59.%20Spiral%20Matrix%20II.java)
     - [62. Unique Paths](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/62.%20Unique%20Paths.java)
     - [64. Minimum Path Sum](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/64.%20Minimum%20Path%20Sum.java)
