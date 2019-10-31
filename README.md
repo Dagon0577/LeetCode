@@ -56,6 +56,7 @@
     - [1035. Uncrossed Lines](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/1035.%20Uncrossed%20Lines.java)
     - [1052. Grumpy Bookstore Owner](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/1052.%20Grumpy%20Bookstore%20Owner.java)
     - [1109. Corporate Flight Bookings](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/1109.%20Corporate%20Flight%20Bookings.java)
+    - [1208. Get Equal Substrings Within Budget](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/1208.%20Get%20Equal%20Substrings%20Within%20Budget.java)
  
 2. 📌[**String**](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String)  
     💚[Easy](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy)🎈
