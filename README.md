@@ -49,6 +49,7 @@
     - [926. Flip String to Monotone Increasing](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/926.%20Flip%20String%20to%20Monotone%20Increasing.java)
     - [945. Minimum Increment to Make Array Unique](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/945.%20Minimum%20Increment%20to%20Make%20Array%20Unique.java)
     - [950. Reveal Cards In Increasing Order](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/950.%20Reveal%20Cards%20In%20Increasing%20Order.java)
+    - [954. Array of Doubled Pairs](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/954.%20Array%20of%20Doubled%20Pairs.java)
     - [969. Pancake Sorting](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/969.%20Pancake%20Sorting.java)
     - [974. Subarray Sums Divisible by K](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/974.%20Subarray%20Sums%20Divisible%20by%20K.java)
     - [978. Longest Turbulent Subarray](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/978.%20Longest%20Turbulent%20Subarray.java)
