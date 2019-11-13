@@ -1,12 +1,57 @@
 #  LeetCode-Dagon
-
+## List
+- 📌[**Array**](https://github.com/Dagon0577/LeetCode/blob/master/README.md#array)
+- 📌[**String**](https://github.com/Dagon0577/LeetCode/blob/master/README.md#string)
+- 📌[**Tree**](https://github.com/Dagon0577/LeetCode/blob/master/README.md#tree)
 ## **Type**
-1. 📌[**Array**](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array)  
-    💚[Easy](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array/Easy)🎈  
+### 📌**Array**  
+   
+- 💚[Easy](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array/Easy)🎈  
+    - [1. Two Sum](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/1.%20Two%20Sum.java)
+    - [26. Remove Duplicates from Sorted Array](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/26.%20Remove%20Duplicates%20from%20Sorted%20Array.java)
+    - [27. Remove Element](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/27.%20Remove%20Element.java)    
+    - [35. Search Insert Position](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/35.%20Search%20Insert%20Position.java)
+    - [53. Maximum Subarray](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/53.%20Maximum%20Subarray.java)
+    - [66. Plus One](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/66.%20Plus%20One.java)
+    - [88. Merge Sorted Array](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/88.%20Merge%20Sorted%20Array.java)
+    - [118. Pascal's Triangle](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/118.%20Pascal's%20Triangle.java)
+    - [119. Pascal's Triangle II](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/119.%20Pascal's%20Triangle%20II.java)
+    - [121. Best Time to Buy and Sell Stock](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.java)
+    - [122. Best Time to Buy and Sell Stock II](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.java)
+    - [167. Two Sum II - Input array is sorted](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.java)
+    - [169. Majority Element](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/169.%20Majority%20Element.java)
+    - [189. Rotate Array](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/189.%20Rotate%20Array.java)
+    - [217. Contains Duplicate](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/217.%20Contains%20Duplicate.java)
+    - [219. Contains Duplicate II](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/219.%20Contains%20Duplicate%20II.java)
+    - [268. Missing Number](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/268.%20Missing%20Number.java)
+    - [283. Move Zeroes](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/283.%20Move%20Zeroes.java)
+    - [414. Third Maximum Number](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/414.%20Third%20Maximum%20Number.java)
+    - [448. Find All Numbers Disappeared in an Array](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.java)
+    - [485. Max Consecutive Ones](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/485.%20Max%20Consecutive%20Ones.java)
+    - [532. K-diff Pairs in an Array](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/532.%20K-diff%20Pairs%20in%20an%20Array.java)
+    - [561. Array Partition I](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/561.%20Array%20Partition%20I.java)
+    - [566. Reshape the Matrix](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/566.%20Reshape%20the%20Matrix.java)
+    - [581. Shortest Unsorted Continuous Subarray](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/581.%20Shortest%20Unsorted%20Continuous%20Subarray.java)
+    - [605. Can Place Flowers](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/605.%20Can%20Place%20Flowers.java)
+    - [628. Maximum Product of Three Numbers](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/628.%20Maximum%20Product%20of%20Three%20Numbers.java)
+    - [643. Maximum Average Subarray I](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/643.%20Maximum%20Average%20Subarray%20I.java)  
+    - [661. Image Smoother](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/661.%20Image%20Smoother.java)
+    - [665. Non-decreasing Array](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/665.%20Non-decreasing%20Array.java)
+    - [674. Longest Continuous Increasing Subsequence](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/674.%20Longest%20Continuous%20Increasing%20Subsequence.java)
+    - [695. Max Area of Island](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/695.%20Max%20Area%20of%20Island.java)
+    - [697. Degree of an Array](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/697.%20Degree%20of%20an%20Array.java)
+    - [717. 1-bit and 2-bit Characters](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/717.%201-bit%20and%202-bit%20Characters.java)
+    - [724. Find Pivot Index](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/724.%20Find%20Pivot%20Index.java)
+    - [746. Min Cost Climbing Stairs(DP)](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/746.%20Min%20Cost%20Climbing%20Stairs(DP).java)
+    - [747. Largest Number At Least Twice of Others](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.java)
+    - [766. Toeplitz Matrix](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/766.%20Toeplitz%20Matrix.java)
+    - [771. Jewels and Stones](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/771.%20Jewels%20and%20Stones.java)
+    - [830. Positions of Large Groups](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/830.%20Positions%20of%20Large%20Groups.java)
+    - [832. Flipping an Image](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/832.%20Flipping%20an%20Image.java)
+    - [840. Magic Squares In Grid](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/840.%20Magic%20Squares%20In%20Grid.java)
+    - [905. Sort Array By Parity](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/905.%20Sort%20Array%20By%20Parity.java)
 
-    todo
-
-    🧡[Medium](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array/Medium)🎈
+- 🧡[Medium](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array/Medium)🎈
     - [11. Container With Most Water](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/11.%20Container%20With%20Most%20Water.java)
     - [16. 3Sum Closest](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array/Medium/16.%203Sum%20Closest.java)
     - [34. Find First and Last Position of Element in Sorted Array](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.java)
@@ -27,6 +72,7 @@
     - [153. Find Minimum in Rotated Sorted Array](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.java)
     - [209. Minimum Size Subarray Sum](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/209.%20Minimum%20Size%20Subarray%20Sum.java)
     - [216. Combination Sum III](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/216.%20Combination%20Sum%20III.java)
+    - [229. Majority Element II](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/229.%20Majority%20Element%20II.java)
     - [238. Product of Array Except Self](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/238.%20Product%20of%20Array%20Except%20Self.java)
     - [287. Find the Duplicate Number](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/287.%20Find%20the%20Duplicate%20Number.java)
     - [289. Game of Life](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/289.%20Game%20of%20Life.java)
@@ -64,15 +110,34 @@
     - [1146. Snapshot Array](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/1146.%20Snapshot%20Array.java)
     - [1208. Get Equal Substrings Within Budget](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/1208.%20Get%20Equal%20Substrings%20Within%20Budget.java)
  
-2. 📌[**String**](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String)  
-    💚[Easy](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy)🎈
+### 📌[**String**](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String)  
+- 💚[Easy](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy)🎈
 
-    todo
+  - [13. Roman to Integer](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy/13.%20Roman%20to%20Integer.java)
+  - [20. Valid Parentheses](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy/20.%20Valid%20Parentheses.java)
+  - [344. Reverse String](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy/344.%20Reverse%20String.java)
+  - [383. Ransom Note](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy/383.%20Ransom%20Note.java)
+  - [387. First Unique Character in a String](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy/387.%20First%20Unique%20Character%20in%20a%20String.java)
+  - [520. Detect Capital](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy/520.%20Detect%20Capital.java)
+  - [521. Longest Uncommon Subsequence I](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy/521.%20Longest%20Uncommon%20Subsequence%20I.java)
+  - [557. Reverse Words in a String III](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy/557.%20Reverse%20Words%20in%20a%20String%20III.java)
+  - [606. Construct String from Binary Tree](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy/606.%20Construct%20String%20from%20Binary%20Tree.java)
+  - [657. Judge Route Circle](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy/657.%20Judge%20Route%20Circle.java)
+  - [696. Count Binary Substrings](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy/696.%20Count%20Binary%20Substrings.java)
+  - [788. Rotated Digits](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy/788.%20Rotated%20Digits.java)
+  - [819. Most Common Word](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy/819.%20Most%20Common%20Word.java)
+  - [824. Goat Latin](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy/824.%20Goat%20Latin.java)
 
-2. 📌[**Tree**](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Tree)  
-    💚[Easy](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Tree/Easy)🎈 
+- 🧡[Medium](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Medium)🎈
+  - [22. Generate Parentheses](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Medium/22.%20Generate%20Parentheses.java)
+  - [678. Valid Parenthesis String](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Medium/678.%20Valid%20Parenthesis%20String.java)
 
-    todo
+### 📌[**Tree**](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Tree)  
+- 💚[Easy](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Tree/Easy)🎈 
+
+  - [101. Symmetric Tree](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Tree/Easy/101.%20Symmetric%20Tree.java)
+  - [104. Maximum Depth of Binary Tree](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Tree/Easy/104.%20Maximum%20Depth%20of%20Binary%20Tree.java)
+  - [226. Invert Binary Tree](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Tree/Easy/226.%20Invert%20Binary%20Tree.java)
 
 
 
