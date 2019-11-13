@@ -4,7 +4,7 @@
 - 📌[**String**](https://github.com/Dagon0577/LeetCode/blob/master/README.md#string)
 - 📌[**Tree**](https://github.com/Dagon0577/LeetCode/blob/master/README.md#tree)
 ## **Type**
-### 📌**Array**  
+### 📌[**Array**](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array)  
    
 - 💚[Easy](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array/Easy)🎈  
     - [1. Two Sum](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/1.%20Two%20Sum.java)
