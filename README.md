@@ -1,8 +1,8 @@
 #  LeetCode-Dagon
 ## List
-- 📌[**Array**](https://github.com/Dagon0577/LeetCode/blob/master/README.md#array)
-- 📌[**String**](https://github.com/Dagon0577/LeetCode/blob/master/README.md#string)
-- 📌[**Tree**](https://github.com/Dagon0577/LeetCode/blob/master/README.md#tree)
+- 📌[**Array**](https://github.com/Dagon0577/LeetCode#array)
+- 📌[**String**](https://github.com/Dagon0577/LeetCode#string)
+- 📌[**Tree**](https://github.com/Dagon0577/LeetCode#tree)
 ## **Type**
 ### 📌[**Array**](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array)  
    
