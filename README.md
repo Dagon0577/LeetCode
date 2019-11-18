@@ -125,6 +125,7 @@
   - [344. Reverse String](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy/344.%20Reverse%20String.java)
   - [383. Ransom Note](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy/383.%20Ransom%20Note.java)
   - [387. First Unique Character in a String](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy/387.%20First%20Unique%20Character%20in%20a%20String.java)
+  - [415. Add Strings](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy/415.%20Add%20Strings.java)
   - [520. Detect Capital](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy/520.%20Detect%20Capital.java)
   - [521. Longest Uncommon Subsequence I](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy/521.%20Longest%20Uncommon%20Subsequence%20I.java)
   - [557. Reverse Words in a String III](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy/557.%20Reverse%20Words%20in%20a%20String%20III.java)
