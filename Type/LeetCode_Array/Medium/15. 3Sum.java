@@ -22,16 +22,12 @@ class Solution {
                     temp.add(nums[l2]);
                     temp.add(nums[l3]);
                     result.add(temp);
-                    while (l2 < l3 && nums[l2] == nums[++l2])
-                        ;
-                    while (l2 < l3 && nums[l3] == nums[--l3])
-                        ;
+                    while (l2 < l3 && nums[l2] == nums[++l2]);
+                    while (l2 < l3 && nums[l3] == nums[--l3]);
                 } else if (sum > 0) {
-                    while (l2 < l3 && nums[l3] == nums[--l3])
-                        ;
+                    l3--;
                 } else {
-                    while (l2 < l3 && nums[l2] == nums[++l2])
-                        ;
+                    l2++;
                 }
             }
         }
