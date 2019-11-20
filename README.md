@@ -53,6 +53,7 @@
 
 - 🧡[Medium](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array/Medium)🎈
     - [11. Container With Most Water](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/11.%20Container%20With%20Most%20Water.java)
+    - [15. 3Sum](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/15.%203Sum.java)
     - [16. 3Sum Closest](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array/Medium/16.%203Sum%20Closest.java)
     - [18. 4Sum](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array/Medium/18.%204Sum.java)
     - [31. Next Permutation](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array/Medium/31.%20Next%20Permutation.java)
