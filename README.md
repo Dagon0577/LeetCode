@@ -120,6 +120,9 @@
     - [1109. Corporate Flight Bookings](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/1109.%20Corporate%20Flight%20Bookings.java)
     - [1146. Snapshot Array](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/1146.%20Snapshot%20Array.java)
     - [1208. Get Equal Substrings Within Budget](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/1208.%20Get%20Equal%20Substrings%20Within%20Budget.java)
+
+- 💙[Hard](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array/Hard)🎈
+    - [4. Median of Two Sorted Arrays](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array/Hard4.%20Median%20of%20Two%20Sorted%20Arrays.java)
  
 ### 📌[**String**](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String)  
 - 💚[Easy](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy)🎈
