@@ -123,11 +123,13 @@
 
 - 💙[Hard](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array/Hard)🎈
     - [4. Median of Two Sorted Arrays](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array/Hard/4.%20Median%20of%20Two%20Sorted%20Arrays.java)
+    - [41. First Missing Positive](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array/Hard/41.%20First%20Missing%20Positive.java)
 ### 📌[**String**](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String)  
 - 💚[Easy](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy)🎈
 
   - [13. Roman to Integer](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy/13.%20Roman%20to%20Integer.java)
   - [20. Valid Parentheses](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy/20.%20Valid%20Parentheses.java)
+  - [67. Add Binary](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy/67.%20Add%20Binary.java)
   - [344. Reverse String](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy/344.%20Reverse%20String.java)
   - [383. Ransom Note](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy/383.%20Ransom%20Note.java)
   - [387. First Unique Character in a String](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy/387.%20First%20Unique%20Character%20in%20a%20String.java)
