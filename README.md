@@ -128,6 +128,7 @@
 - 💚[Easy](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy)🎈
 
   - [13. Roman to Integer](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy/13.%20Roman%20to%20Integer.java)
+  - [14. Longest Common Prefix](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy/14.%20Longest%20Common%20Prefix.java)
   - [20. Valid Parentheses](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy/20.%20Valid%20Parentheses.java)
   - [67. Add Binary](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy/67.%20Add%20Binary.java)
   - [344. Reverse String](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy/344.%20Reverse%20String.java)
