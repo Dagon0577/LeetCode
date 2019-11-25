@@ -124,6 +124,7 @@
 - 💙[Hard](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array/Hard)🎈
     - [4. Median of Two Sorted Arrays](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array/Hard/4.%20Median%20of%20Two%20Sorted%20Arrays.java)
     - [41. First Missing Positive](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array/Hard/41.%20First%20Missing%20Positive.java)
+    - [42. Trapping Rain Water](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array/Hard/42.%20Trapping%20Rain%20Water.java)
 ### 📌[**String**](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String)  
 - 💚[Easy](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy)🎈
 
