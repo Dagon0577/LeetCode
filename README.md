@@ -126,6 +126,7 @@
     - [41. First Missing Positive](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array/Hard/41.%20First%20Missing%20Positive.java)
     - [42. Trapping Rain Water](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array/Hard/42.%20Trapping%20Rain%20Water.java)
     - [45. Jump Game II](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array/Hard/45.%20Jump%20Game%20II.java)
+    - [57. Insert Interval](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array/Hard/57.%20Insert%20Interval.java)
 ### 📌[**String**](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String)  
 - 💚[Easy](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy)🎈
 

@@ -28,10 +28,6 @@ class Solution {
                 j++;
             }
         }
-        int[][] result = new int[list.size()][2];
-        for (int k = 0; k < list.size(); k++) {
-            result[k] = list.get(k);
-        }
-        return result;
+        return list.toArray(new int[list.size()][]);
     }
 }
