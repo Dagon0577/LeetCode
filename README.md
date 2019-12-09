@@ -50,6 +50,9 @@
     - [832. Flipping an Image](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/832.%20Flipping%20an%20Image.java)
     - [840. Magic Squares In Grid](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/840.%20Magic%20Squares%20In%20Grid.java)
     - [905. Sort Array By Parity](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/905.%20Sort%20Array%20By%20Parity.java)
+    - [922. Sort Array By Parity II](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/922.%20Sort%20Array%20By%20Parity%20II.java)
+    - [977. Squares of a Sorted Array](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/977.%20Squares%20of%20a%20Sorted%20Array.java)
+    - [1266. Minimum Time Visiting All Points](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Easy/1266.%20Minimum%20Time%20Visiting%20All%20Points.java)
 
 - 🧡[Medium](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array/Medium)🎈
     - [11. Container With Most Water](https://github.com/Dagon0577/LeetCode/blob/master/Type/LeetCode_Array/Medium/11.%20Container%20With%20Most%20Water.java)
@@ -129,6 +132,7 @@
     - [57. Insert Interval](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array/Hard/57.%20Insert%20Interval.java)
     - [84. Largest Rectangle in Histogram](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array/Hard/84.%20Largest%20Rectangle%20in%20Histogram.java)
     - [85. Maximal Rectangle](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array/Hard/85.%20Maximal%20Rectangle.java)
+    - [123. Best Time to Buy and Sell Stock III](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Array/Hard/123.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.java)
 ### 📌[**String**](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String)  
 - 💚[Easy](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Easy)🎈
 
