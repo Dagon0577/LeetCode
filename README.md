@@ -157,6 +157,7 @@
 - 🧡[Medium](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Medium)🎈
   - [22. Generate Parentheses](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Medium/22.%20Generate%20Parentheses.java)
   - [678. Valid Parenthesis String](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Medium/678.%20Valid%20Parenthesis%20String.java)
+  - [539. Minimum Time Difference](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_String/Medium/539.%20Minimum%20Time%20Difference.java)
 
 ### 📌[**Tree**](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Tree)  
 - 💚[Easy](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Tree/Easy)🎈 
