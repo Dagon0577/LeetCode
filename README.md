@@ -5,13 +5,16 @@
 - [1. 两数之和](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/1.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.java)
 - [2. 两数相加](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/2.%20%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.java)
 - [3. 无重复字符的最长子串](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/3.%20%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.java)
+  - [思路](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/3.Ideas.md)
 - [4. 寻找两个有序数组的中位数](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/4.%20%E5%AF%BB%E6%89%BE%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0.java)
+  - [思路](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/4.Ideas.md)
 - 94.二叉树的中序遍历
   
   - [94. 二叉树的中序遍历](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/94.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86.java)
   - [94. 二叉树的中序遍历（非递归，用栈）](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/94.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86%EF%BC%88%E9%9D%9E%E9%80%92%E5%BD%92%EF%BC%8C%E7%94%A8%E6%A0%88%EF%BC%89.java)
   - [94. 二叉树的中序遍历（非递归，莫里斯遍历）](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/94.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86%EF%BC%88%E9%9D%9E%E9%80%92%E5%BD%92%EF%BC%8C%E8%8E%AB%E9%87%8C%E6%96%AF%E9%81%8D%E5%8E%86%EF%BC%89.java) 
 - [309. 最佳买卖股票时机含冷冻期](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/309.%20%E6%9C%80%E4%BD%B3%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E6%97%B6%E6%9C%BA%E5%90%AB%E5%86%B7%E5%86%BB%E6%9C%9F.java)
+  - [思路](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/solution/yi-ge-fang-fa-tuan-mie-6-dao-gu-piao-wen-ti-by-lab/)
 ## List
 - 📌[**Array**](https://github.com/Dagon0577/LeetCode#array)
 - 📌[**String**](https://github.com/Dagon0577/LeetCode#string)
