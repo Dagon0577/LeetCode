@@ -8,6 +8,8 @@
   - [思路](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/3.Ideas.md)
 - [4. 寻找两个有序数组的中位数](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/4.%20%E5%AF%BB%E6%89%BE%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0.java)
   - [思路](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/4.Ideas.md)
+- [5. 最长回文子串](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/5.%20%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.java)
+  - [思路](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/5.Ideas.md)
 - 94.二叉树的中序遍历
   
   - [94. 二叉树的中序遍历](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/94.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86.java)
