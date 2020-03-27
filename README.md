@@ -10,6 +10,9 @@
   - [思路](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/4.Ideas.md)
 - [5. 最长回文子串](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/5.%20%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.java)
   - [思路](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/5.Ideas.md)
+- [10. 正则表达式匹配](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/10.%20%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%8C%B9%E9%85%8D.java)
+- [11. 盛最多水的容器](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/11.%20%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8.java)
+- [15. 三数之和](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/15.%20%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.java)
 - 94.二叉树的中序遍历
   
   - [94. 二叉树的中序遍历](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/94.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86.java)
