@@ -28,6 +28,13 @@
   - [32. 最长有效括号（空间O（1））](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/32.%20%E6%9C%80%E9%95%BF%E6%9C%89%E6%95%88%E6%8B%AC%E5%8F%B7%EF%BC%88%E7%A9%BA%E9%97%B4O%EF%BC%881%EF%BC%89%EF%BC%89.java)
 - [33. 搜索旋转排序数组](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100%/33.%20%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.java)
 - [34. 在排序数组中查找元素的第一个和最后一个位置](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/34.%20%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%92%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE.java)
+- [39. 组合总和](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/39.%20%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.java)
+- [42. 接雨水](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/42.%20%E6%8E%A5%E9%9B%A8%E6%B0%B4.java)
+- [46. 全排列](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/46.%20全排列.java)
+- [48. 旋转图像](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/48.%20%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%83%8F.java)
+- [49. 字母异位词分组](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/49.%20%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D%E5%88%86%E7%BB%84.java)
+- [53. 最大子序和](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/53.%20%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.java)
+
 - 94.二叉树的中序遍历
   
   - [94. 二叉树的中序遍历](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/94.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86.java)
