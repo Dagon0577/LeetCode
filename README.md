@@ -224,8 +224,3 @@
   - [101. Symmetric Tree](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Tree/Easy/101.%20Symmetric%20Tree.java)
   - [104. Maximum Depth of Binary Tree](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Tree/Easy/104.%20Maximum%20Depth%20of%20Binary%20Tree.java)
   - [226. Invert Binary Tree](https://github.com/Dagon0577/LeetCode/tree/master/Type/LeetCode_Tree/Easy/226.%20Invert%20Binary%20Tree.java)
-
-
-
-# Recycle Bin 🗑  
- * 🛒[Recycle Bin](https://github.com/Dagon0577/LeetCode/tree/master/RecycleBin)  
