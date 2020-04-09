@@ -41,7 +41,8 @@
 - [70. 爬楼梯](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/70.%20爬楼梯.java)
 - [72. 编辑距离](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/72.%20编辑距离.java)
 - [75. 颜色分类](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/75.%20颜色分类.java)
-
+- [76. 最小覆盖子串](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/76.%20最小覆盖子串.java)
+- [78. 子集](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/78.%20子集.java)
 - 94.二叉树的中序遍历
   
   - [94. 二叉树的中序遍历](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/94.%20二叉树的中序遍历.java)
