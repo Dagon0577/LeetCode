@@ -43,6 +43,7 @@
 - [75. 颜色分类](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/75.%20颜色分类.java)
 - [76. 最小覆盖子串](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/76.%20最小覆盖子串.java)
 - [78. 子集](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/78.%20子集.java)
+- [79. 单词搜索](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/79.%20单词搜索.java)
 - 94.二叉树的中序遍历
   
   - [94. 二叉树的中序遍历](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/94.%20二叉树的中序遍历.java)
@@ -56,6 +57,11 @@
 - [面试题13. 机器人的运动范围](https://github.com/Dagon0577/LeetCode/blob/master/力扣每日一题/面试题13.%20机器人的运动范围.java)
 - [22. 括号生成](https://github.com/Dagon0577/LeetCode/blob/master/力扣每日一题/22.%20括号生成.java)
 - [151. 翻转字符串里的单词](https://github.com/Dagon0577/LeetCode/blob/master/力扣每日一题/151.%20翻转字符串里的单词.java)
+- [887. 鸡蛋掉落](https://github.com/Dagon0577/LeetCode/blob/master/力扣每日一题/887.%20鸡蛋掉落.java)
+
+  - [思路](https://leetcode-cn.com/problems/super-egg-drop/solution/ji-ben-dong-tai-gui-hua-jie-fa-by-labuladong/)
+  - [视频（李永乐nb）](https://www.youtube.com/watch?v=mLV_vOet0ss&t=68s)
+
 
 ## List
 - 📌[**Array**](https://github.com/Dagon0577/LeetCode#array)
