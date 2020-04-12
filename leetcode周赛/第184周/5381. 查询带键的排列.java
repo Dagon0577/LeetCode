@@ -3,23 +3,24 @@ class Solution {
         int n = queries.length;
         int[] res = new int[n];
         int[] P = new int[m];
-        for(int i = 0; i < m; i++){
+        for (int i = 0; i < m; i++) {
             P[i] = i + 1;
         }
-        for(int i = 0; i < n; i++){
-            for(int j = 0; j < m; j++){
-                if(P[j] == queries[i]) {
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (P[j] == queries[i]) {
                     res[i] = j;
-                    sort(P,0,j);
+                    sort(P, 0, j);
                     break;
                 }
             }
         }
         return res;
     }
-    private void sort(int[] list,int start,int end){
+
+    private void sort(int[] list, int start, int end) {
         int tmp = list[end];
-        for(int i = end; i > start; i--){
+        for (int i = end; i > start; i--) {
             list[i] = list[i - 1];
         }
         list[start] = tmp;

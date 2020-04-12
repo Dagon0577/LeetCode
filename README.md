@@ -62,6 +62,13 @@
   - [思路](https://leetcode-cn.com/problems/super-egg-drop/solution/ji-ben-dong-tai-gui-hua-jie-fa-by-labuladong/)
   - [视频（李永乐nb）](https://www.youtube.com/watch?v=mLV_vOet0ss&t=68s)
 
+## leetcode周赛
+
+- 第184周
+  - [5380. 数组中的字符串匹配](https://github.com/Dagon0577/LeetCode/tree/master/leetcode周赛/第184周/5380.%20数组中的字符串匹配.java)
+  - [5381. 查询带键的排列](https://github.com/Dagon0577/LeetCode/tree/master/leetcode周赛/第184周/5381.%20查询带键的排列.java)
+  - [5382. HTML 实体解析器](https://github.com/Dagon0577/LeetCode/tree/master/leetcode周赛/第184周/5382.%20HTML%20实体解析器.java)
+  - [5383. 给 N x 3 网格图涂色的方案数](https://github.com/Dagon0577/LeetCode/tree/master/leetcode周赛/第184周/5383.%20给%20N%20x%203%20网格图涂色的方案数.java)
 
 ## List
 - 📌[**Array**](https://github.com/Dagon0577/LeetCode#array)
