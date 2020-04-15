@@ -63,6 +63,7 @@
 
   - [思路](https://leetcode-cn.com/problems/super-egg-drop/solution/ji-ben-dong-tai-gui-hua-jie-fa-by-labuladong/)
   - [视频（李永乐nb）](https://www.youtube.com/watch?v=mLV_vOet0ss&t=68s)
+- [542. 01 矩阵](https://github.com/Dagon0577/LeetCode/blob/master/力扣每日一题/542.%2001%20矩阵.java)
 
 ## leetcode周赛
 
