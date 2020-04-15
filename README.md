@@ -44,7 +44,8 @@
 - [76. 最小覆盖子串](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/76.%20最小覆盖子串.java)
 - [78. 子集](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/78.%20子集.java)
 - [79. 单词搜索](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/79.%20单词搜索.java)
-- [84. 柱状图中最大的矩形](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/84.%20柱状图中最大的矩形.java)
+- [84. 柱状图中最大的矩形](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/84.%20柱状图中最大的矩形.java)\
+- [85. 最大矩形](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/85.%20最大矩形.java)
 - 94.二叉树的中序遍历
   
   - [94. 二叉树的中序遍历](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/94.%20二叉树的中序遍历.java)
