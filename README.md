@@ -50,7 +50,10 @@
   
   - [94. 二叉树的中序遍历](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/94.%20二叉树的中序遍历.java)
   - [94. 二叉树的中序遍历（非递归，用栈）](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/94.%20二叉树的中序遍历（非递归，用栈）.java)
-  - [94. 二叉树的中序遍历（非递归，莫里斯遍历）](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/94.%20二叉树的中序遍历（非递归，莫里斯遍历）.java) 
+  - [94. 二叉树的中序遍历（非递归，莫里斯遍历）](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/94.%20二叉树的中序遍历（非递归，莫里斯遍历）.java)
+- [96. 不同的二叉搜索树](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/96.%20不同的二叉搜索树.java)
+- [101. 对称二叉树](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/101.%20对称二叉树.java)
+- [104. 二叉树的最大深度](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/104.%20二叉树的最大深度.java) 
 - [309. 最佳买卖股票时机含冷冻期](https://github.com/Dagon0577/LeetCode/blob/master/LeetcodeTop100/309.%20最佳买卖股票时机含冷冻期.java)
   - [思路](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/solution/yi-ge-fang-fa-tuan-mie-6-dao-gu-piao-wen-ti-by-lab/)
 
